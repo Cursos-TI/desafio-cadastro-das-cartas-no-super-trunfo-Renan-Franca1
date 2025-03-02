@@ -11,28 +11,28 @@ int main(){
     int numeropontosturisticos;
 
     printf("digite o nome da carta: \n");
-    scanf("%s" , carta");
+    scanf("%s" , carta);
 
     printf("digite o nome do estado: \n");
-    scanf("%s , estado");
+    scanf("%s" , estado);
 
     printf("digite o codigo da carta: \n");
-    scanf("%s , codigodacarta");
+    scanf("%s" , codigodacarta);
 
     printf("digite o nome da cidade: \n");
-    scanf("%s , nomedacidade");
+    scanf("%s" , nomedacidade);
 
     printf("digite a populacao \n");
-    scanf("%d , populacao");
+    scanf("%d" , populacao);
 
     printf("digite a area em metros quadrados \n");
-    scanf("%f , area");
+    scanf("%f" , area);
 
     printf("digite o pib \n");
-    scanf("%f , pib");
+    scanf("%f" , pib);
 
     printf("digite o numero de pontos turisticos \n");
-    scanf("%d , numeropontosturisticos");
+    scanf("%d" , numeropontosturisticos);
 
     printf("digite o nome da carta: %s - carta");
     printf("digite o nome do estado: %s - estado");
